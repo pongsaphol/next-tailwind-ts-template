@@ -1,1 +1,1 @@
-kidjagum
+# NextJS + Tailwind CSS + TypeScript Template
